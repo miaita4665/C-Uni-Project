@@ -1,0 +1,37 @@
+C:\Users\mihai\OneDrive\Project c#\Proiect WF\Proiect WF\bin\Debug\Proiect WF.exe.config
+C:\Users\mihai\OneDrive\Project c#\Proiect WF\Proiect WF\bin\Debug\Proiect WF.exe
+C:\Users\mihai\OneDrive\Project c#\Proiect WF\Proiect WF\bin\Debug\Proiect WF.pdb
+C:\Users\mihai\OneDrive\Project c#\Proiect WF\Proiect WF\obj\Debug\Proiect WF.csproj.AssemblyReference.cache
+C:\Users\mihai\OneDrive\Project c#\Proiect WF\Proiect WF\obj\Debug\Proiect_WF.Form1.resources
+C:\Users\mihai\OneDrive\Project c#\Proiect WF\Proiect WF\obj\Debug\Proiect_WF.Properties.Resources.resources
+C:\Users\mihai\OneDrive\Project c#\Proiect WF\Proiect WF\obj\Debug\Proiect WF.csproj.GenerateResource.cache
+C:\Users\mihai\OneDrive\Project c#\Proiect WF\Proiect WF\obj\Debug\Proiect WF.csproj.CoreCompileInputs.cache
+C:\Users\mihai\OneDrive\Project c#\Proiect WF\Proiect WF\obj\Debug\Proiect WF.exe
+C:\Users\mihai\OneDrive\Project c#\Proiect WF\Proiect WF\obj\Debug\Proiect WF.pdb
+C:\Users\mihai\OneDrive\Project c#\Proiect WF\Proiect WF\obj\Debug\Proiect_WF.Form2.resources
+C:\Users\mihai\OneDrive\Project c#\Proiect WF\Proiect WF\obj\Debug\Proiect_WF.Form3.resources
+C:\Users\Laptop\OneDrive\Proiecte\Proiect PAW WF\Proiect WF\Proiect WF\obj\Debug\Proiect WF.csproj.AssemblyReference.cache
+C:\Users\Laptop\OneDrive\Proiecte\Proiect PAW WF\Proiect WF\Proiect WF\obj\Debug\Proiect_WF.Form1.resources
+C:\Users\Laptop\OneDrive\Proiecte\Proiect PAW WF\Proiect WF\Proiect WF\obj\Debug\Proiect_WF.Form2.resources
+C:\Users\Laptop\OneDrive\Proiecte\Proiect PAW WF\Proiect WF\Proiect WF\obj\Debug\Proiect_WF.Form3.resources
+C:\Users\Laptop\OneDrive\Proiecte\Proiect PAW WF\Proiect WF\Proiect WF\obj\Debug\Proiect_WF.Properties.Resources.resources
+C:\Users\Laptop\OneDrive\Proiecte\Proiect PAW WF\Proiect WF\Proiect WF\obj\Debug\Proiect WF.csproj.GenerateResource.cache
+C:\Users\Laptop\OneDrive\Proiecte\Proiect PAW WF\Proiect WF\Proiect WF\obj\Debug\Proiect WF.csproj.CoreCompileInputs.cache
+C:\Users\Laptop\OneDrive\Proiecte\Proiect PAW WF\Proiect WF\Proiect WF\obj\Debug\Proiect WF.exe
+C:\Users\Laptop\OneDrive\Proiecte\Proiect PAW WF\Proiect WF\Proiect WF\obj\Debug\Proiect WF.pdb
+C:\Users\Laptop\OneDrive\Proiecte\Proiect PAW WF\Proiect WF\Proiect WF\bin\Debug\Proiect WF.exe.config
+C:\Users\Laptop\OneDrive\Proiecte\Proiect PAW WF\Proiect WF\Proiect WF\bin\Debug\Proiect WF.exe
+C:\Users\Laptop\OneDrive\Proiecte\Proiect PAW WF\Proiect WF\Proiect WF\bin\Debug\Proiect WF.pdb
+C:\Users\mihai\OneDrive\Proiecte\Proiect PAW WF\Proiect WF\Proiect WF\bin\Debug\Proiect WF.exe.config
+C:\Users\mihai\OneDrive\Proiecte\Proiect PAW WF\Proiect WF\Proiect WF\bin\Debug\Proiect WF.exe
+C:\Users\mihai\OneDrive\Proiecte\Proiect PAW WF\Proiect WF\Proiect WF\bin\Debug\Proiect WF.pdb
+C:\Users\mihai\OneDrive\Proiecte\Proiect PAW WF\Proiect WF\Proiect WF\obj\Debug\Proiect WF.csproj.AssemblyReference.cache
+C:\Users\mihai\OneDrive\Proiecte\Proiect PAW WF\Proiect WF\Proiect WF\obj\Debug\Proiect_WF.Form1.resources
+C:\Users\mihai\OneDrive\Proiecte\Proiect PAW WF\Proiect WF\Proiect WF\obj\Debug\Proiect_WF.Form2.resources
+C:\Users\mihai\OneDrive\Proiecte\Proiect PAW WF\Proiect WF\Proiect WF\obj\Debug\Proiect_WF.Form3.resources
+C:\Users\mihai\OneDrive\Proiecte\Proiect PAW WF\Proiect WF\Proiect WF\obj\Debug\Proiect_WF.Properties.Resources.resources
+C:\Users\mihai\OneDrive\Proiecte\Proiect PAW WF\Proiect WF\Proiect WF\obj\Debug\Proiect WF.csproj.GenerateResource.cache
+C:\Users\mihai\OneDrive\Proiecte\Proiect PAW WF\Proiect WF\Proiect WF\obj\Debug\Proiect WF.csproj.CoreCompileInputs.cache
+C:\Users\mihai\OneDrive\Proiecte\Proiect PAW WF\Proiect WF\Proiect WF\obj\Debug\Proiect WF.exe
+C:\Users\mihai\OneDrive\Proiecte\Proiect PAW WF\Proiect WF\Proiect WF\obj\Debug\Proiect WF.pdb
+C:\Users\mihai\OneDrive\Proiecte\Proiect PAW WF\Proiect WF\Proiect WF\obj\Debug\Proiect_WF.Form4.resources

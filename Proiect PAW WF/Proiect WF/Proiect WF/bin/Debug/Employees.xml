@@ -1,0 +1,25 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Employees>
+  <Employee>
+    <Cnp>24142412</Cnp>
+    <Name>fgdfgd</Name>
+    <Surname>fgdsf</Surname>
+    <Email>fgsgsfd</Email>
+    <Phone>334223</Phone>
+    <Address>gsgsfd</Address>
+    <Position>gfsgsf</Position>
+    <Department>gfsdsfg</Department>
+    <Salary>34243</Salary>
+  </Employee>
+  <Employee>
+    <Cnp>312</Cnp>
+    <Name>fgdgsf</Name>
+    <Surname>fgsgfsd</Surname>
+    <Email>fgsds</Email>
+    <Phone>342243</Phone>
+    <Address>gsfdgsfd</Address>
+    <Position>dsfggsf</Position>
+    <Department>gfsdsgf</Department>
+    <Salary>3234243</Salary>
+  </Employee>
+</Employees>
